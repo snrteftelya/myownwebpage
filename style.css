@@ -39,7 +39,7 @@ body{
   transform-style: preserve-3d;
   transform: perspective(800px) 
 }
-@media (max-width: 500px) {
+@media (max-device-width: 400px) {
 .box {
     text-align: center;
     display: block
