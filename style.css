@@ -41,6 +41,8 @@ body{
 }
 @media (max-device-width: 400px) {
 .box {
+    width: 50%
+    height: 50%
     text-align: center;
     display: block
 }
